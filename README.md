@@ -96,7 +96,7 @@ Acreditamos que o arquiteto de software:
 * Não deve ser uma profissão, mas sim um papel
 * Não trabalha sozinho, suas decisões dever ser **pautadas nas necessidades** de diferentes **stakeholders**
 
-# Modelos de Arquitetura
+# Estilos Arquiteturais
 
 [Arquitetura em Camada](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
 
