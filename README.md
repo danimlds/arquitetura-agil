@@ -106,6 +106,22 @@ Acreditamos que o arquiteto de software:
 
 [Microserviços](https://martinfowler.com/articles/microservices.html)
 
+# Material Complementar
+
+[o que são padrões?](https://pt.wikipedia.org/wiki/Padr%C3%A3o_de_projeto_de_software)
+[part2](https://en.wikipedia.org/wiki/Pattern_language)
+
+[CQRS](https://microservices.io/patterns/data/cqrs.html)
+
+[Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html)
+
+[Asynchronous Messaging](https://microservices.io/patterns/communication-style/messaging.html)
+
+[API Gateway & BFF](https://microservices.io/patterns/apigateway.html)
+
+[Análise de Trade-offs](https://themicroservicesinfo.netlify.app/learn/trade-offs-method/)
+[part2](https://dl.acm.org/doi/10.1145/3424771.3424809)
+
 
 
 
