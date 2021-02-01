@@ -122,6 +122,8 @@ Acreditamos que o arquiteto de software:
 [Análise de Trade-offs](https://themicroservicesinfo.netlify.app/learn/trade-offs-method/)
 [part2](https://dl.acm.org/doi/10.1145/3424771.3424809)
 
+[Práticas Àgeis para Arquitetura de Software - Eduardo Guerra](https://www.youtube.com/watch?v=q-OHu0cENc4)
+
 
 
 
