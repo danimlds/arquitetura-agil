@@ -126,6 +126,9 @@ Acreditamos que o arquiteto de software:
 
 [Proposta de Arquitetura para o Sistema Boodle](https://www.youtube.com/watch?v=-tA-WW8eMOw&feature=youtu.be)
 
+[Podcast Padrões de Projeto com Eduardo Guerra](https://open.spotify.com/episode/1swe5XIJL6iR6kQbVQJVdg)
+
+[Canal Eduardo Guerra](https://www.youtube.com/user/eduardomg23)
 
 
 
