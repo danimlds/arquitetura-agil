@@ -124,6 +124,9 @@ Acreditamos que o arquiteto de software:
 
 [Práticas Àgeis para Arquitetura de Software - Eduardo Guerra](https://www.youtube.com/watch?v=q-OHu0cENc4)
 
+[Proposta de Arquitetura para o Sistema Boodle](https://www.youtube.com/watch?v=-tA-WW8eMOw&feature=youtu.be)
+
+
 
 
 
