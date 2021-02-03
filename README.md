@@ -138,9 +138,6 @@ Acreditamos que o arquiteto de software:
 * Straightforward to deploy - All a developed had to do was copy the WAR file to a server that had Tomcat installed;
 * Easy to scale - RAN multiple instances of the application behind a load balancer;
 
-# Escaping monolithic hell
-
-
 
 
 
