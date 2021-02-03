@@ -130,6 +130,20 @@ Acreditamos que o arquiteto de software:
 
 [Canal Eduardo Guerra](https://www.youtube.com/user/eduardomg23)
 
+# The benefits of the monolithic architecture
+
+* Simple to develop - IDEs and other developer tools are focused on building single application;
+* Easy to make radical changes to the application - You can change the code and the database schema, build, and deploy;
+* Straightforward to test - The developers wrote end-to-end tests that launched the application, inveked the REST API, and tested the UI with Selenium;
+* Straightforward to deploy - All a developed had to do was copy the WAR file to a server that had Tomcat installed;
+* Easy to scale - RAN multiple instances of the application behind a load balancer;
+
+# Escaping monolithic hell
+
+
+
+
+
 
 
 
